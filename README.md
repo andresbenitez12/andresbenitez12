@@ -1,6 +1,6 @@
 Hi,👋 I’m Andres Benitez
 - 👀 I’m interested in Fullstack development.
-- 🌱 I’m currently learning FrontEnd and BackEnd
+- 🌱 I’m currently learning FrontEnd and BackEnd.
 - 📫 How to reach me IG -> @andbv12
 
 <!---
